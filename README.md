@@ -1,6 +1,5 @@
 # Summary AI for Detecting Changes in Student Behaviour
-
-This project proposes an AI-based system that monitors students’ digital behaviour (such as assignment submission times, activity in school platforms, or chatbot usage) and detects anomalies that may indicate disengagement, stress, or other issues. The goal is to support early intervention and personalized teacher support.
+1. This project proposes an AI-based system that monitors students’ digital behaviour (such as assignment submission times, activity in school platforms, or chatbot usage) and detects anomalies that may indicate disengagement, stress, or other issues. The goal is to support early intervention and personalized teacher support.
 
 2. Background & Motivation
 
