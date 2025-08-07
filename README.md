@@ -1,4 +1,4 @@
-#AI for Detecting Changes in Student Behaviour
+# AI for Detecting Changes in Student Behaviour
 
 1. Project Summary
 
